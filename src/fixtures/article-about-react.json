@@ -1,0 +1,187 @@
+{
+  "object": "block",
+  "id": "c02fc1d3-db8b-45c5-a222-27595b15aea7",
+	"parent": {
+		"type": "page_id",
+		"page_id": "59833787-2cf9-4fdf-8782-e53db20768a5"
+	},
+	"created_time": "2022-03-01T19:05:00.000Z",
+	"last_edited_time": "2022-07-06T19:41:00.000Z",
+	"created_by": {
+		"object": "user",
+		"id": "ee5f0f84-409a-440f-983a-a5315961c6e4"
+	},
+	"last_edited_by": {
+		"object": "user",
+		"id": "ee5f0f84-409a-440f-983a-a5315961c6e4"
+	},
+	"has_children": false,
+	"in_trash": false,
+  "type": "heading_1",
+  "heading_1": {
+    "rich_text": [
+      {
+        "type": "text",
+        "text": {
+          "content": "React.jsの歴史"
+        }
+      }
+    ]
+  },
+  "children": [
+    {
+      "object": "block",
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "React.jsは、Facebookによって開発されたJavaScriptライブラリであり、ユーザーインターフェースを構築するために使用されます。"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "object": "block",
+      "type": "heading_2",
+      "heading_2": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "2011: 開発の始まり"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "object": "block",
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Reactは2011年にFacebookのソフトウェアエンジニアであるJordan Walkeによって内部プロジェクトとして開発されました。"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "object": "block",
+      "type": "heading_2",
+      "heading_2": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "2013: オープンソース化"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "object": "block",
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "2013年5月、Reactはオープンソース化され、GitHubで公開されました。これにより、開発者コミュニティ全体がReactの改善と拡張に参加できるようになりました。"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "object": "block",
+      "type": "heading_2",
+      "heading_2": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "2015: React Nativeの発表"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "object": "block",
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "2015年に、Reactを基にしたモバイルアプリ開発フレームワークであるReact Nativeが発表されました。これにより、開発者は同じコードベースでiOSとAndroidアプリを作成できるようになりました。"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "object": "block",
+      "type": "heading_2",
+      "heading_2": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "2020: React 17のリリース"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "object": "block",
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "2020年10月にReact 17がリリースされました。このバージョンは主に安定性の向上と既存のReactアプリケーションとの互換性を重視しています。"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "object": "block",
+      "type": "heading_2",
+      "heading_2": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "現在"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "object": "block",
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Reactは現在も活発に開発が続けられており、コンポーネントベースの開発スタイルと仮想DOMの効率性を活かした多くのWebアプリケーションで使用されています。"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

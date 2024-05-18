@@ -1,0 +1,33 @@
+{
+  "name": "react-19-sample",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@radix-ui/themes": "^3.0.3",
+    "@supabase/supabase-js": "^2.43.1",
+    "next": "14.2.3",
+    "react": "^19.0.0-beta-b498834eab-20240506",
+    "react-dom": "^19.0.0-beta-b498834eab-20240506"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "eslint": "^8",
+    "eslint-config-next": "14.2.3",
+    "postcss": "^8",
+    "prettier": "^3.2.5",
+    "tailwindcss": "^3.4.1",
+    "typescript": "^5"
+  },
+  "overrides": {
+    "react": "^19.0.0-beta-b498834eab-20240506",
+    "react-dom": "^19.0.0-beta-b498834eab-20240506"
+  }
+}
