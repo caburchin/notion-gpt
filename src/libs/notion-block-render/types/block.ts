@@ -33,7 +33,8 @@ export type TextBlockKey =
   | 'heading_3'
   | 'heading_4'
   | 'heading_5'
-  | 'paragraph';
+  | 'paragraph'
+  | 'bulleted_list_item';
 
 export type BlockObject = TextBlockObject<TextBlockKey>;
 

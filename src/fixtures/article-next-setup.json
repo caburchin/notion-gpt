@@ -1,752 +1,672 @@
 {
   "object": "list",
   "results": [
-  {
-    "object": "block",
-    "id": "126f99b2-709a-4153-a67b-fcd9f128e78a",
-    "parent":
     {
-      "type": "page_id",
-      "page_id": "e9d8e9c6-df84-4db1-8a34-d42b67ea9d70"
+      "object": "block",
+      "id": "126f99b2-709a-4153-a67b-fcd9f128e78a",
+      "parent": {
+        "type": "page_id",
+        "page_id": "e9d8e9c6-df84-4db1-8a34-d42b67ea9d70"
+      },
+      "created_time": "2024-03-31T06:15:00.000Z",
+      "last_edited_time": "2024-03-31T06:15:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "479a6dc1-812d-49d8-b16f-95046b4afc33"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "479a6dc1-812d-49d8-b16f-95046b4afc33"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "heading_2",
+      "heading_2": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Libraries",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Libraries",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
     },
-    "created_time": "2024-03-31T06:15:00.000Z",
-    "last_edited_time": "2024-03-31T06:15:00.000Z",
-    "created_by":
     {
-      "object": "user",
-      "id": "479a6dc1-812d-49d8-b16f-95046b4afc33"
+      "object": "block",
+      "id": "ad745726-6bf5-4f03-aa2a-dcf01a8412db",
+      "parent": {
+        "type": "page_id",
+        "page_id": "e9d8e9c6-df84-4db1-8a34-d42b67ea9d70"
+      },
+      "created_time": "2024-03-31T06:15:00.000Z",
+      "last_edited_time": "2024-03-31T06:15:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "479a6dc1-812d-49d8-b16f-95046b4afc33"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "479a6dc1-812d-49d8-b16f-95046b4afc33"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "web3Modal",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "web3Modal",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
     },
-    "last_edited_by":
     {
-      "object": "user",
-      "id": "479a6dc1-812d-49d8-b16f-95046b4afc33"
+      "object": "block",
+      "id": "ea766e8d-6d9b-4c66-b669-5f5236e6a56d",
+      "parent": {
+        "type": "page_id",
+        "page_id": "e9d8e9c6-df84-4db1-8a34-d42b67ea9d70"
+      },
+      "created_time": "2024-03-31T06:15:00.000Z",
+      "last_edited_time": "2024-03-31T06:15:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "479a6dc1-812d-49d8-b16f-95046b4afc33"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "479a6dc1-812d-49d8-b16f-95046b4afc33"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "wagmi",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "wagmi",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
     },
-    "has_children": false,
-    "archived": false,
-    "in_trash": false,
-    "type": "heading_2",
-    "heading_2":
     {
-      "rich_text": [
-      {
-        "type": "text",
-        "text":
-        {
-          "content": "Libraries",
-          "link": null
-        },
-        "annotations":
-        {
-          "bold": false,
-          "italic": false,
-          "strikethrough": false,
-          "underline": false,
-          "code": false,
-          "color": "default"
-        },
-        "plain_text": "Libraries",
-        "href": null
-      }],
-      "is_toggleable": false,
-      "color": "default"
+      "object": "block",
+      "id": "2043b592-ebca-4745-a27c-ffcc0649f8c4",
+      "parent": {
+        "type": "page_id",
+        "page_id": "e9d8e9c6-df84-4db1-8a34-d42b67ea9d70"
+      },
+      "created_time": "2024-03-31T06:15:00.000Z",
+      "last_edited_time": "2024-03-31T06:15:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "479a6dc1-812d-49d8-b16f-95046b4afc33"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "479a6dc1-812d-49d8-b16f-95046b4afc33"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "tanstack/react-query",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "tanstack/react-query",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "d4eb4b3c-0b5f-4d16-82e3-9ac2142048fd",
+      "parent": {
+        "type": "page_id",
+        "page_id": "e9d8e9c6-df84-4db1-8a34-d42b67ea9d70"
+      },
+      "created_time": "2024-03-31T06:15:00.000Z",
+      "last_edited_time": "2024-03-31T06:16:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "479a6dc1-812d-49d8-b16f-95046b4afc33"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "479a6dc1-812d-49d8-b16f-95046b4afc33"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "tailwindcss",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "tailwindcss",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "e6c89090-6a7d-4053-9357-cf95aac1af46",
+      "parent": {
+        "type": "page_id",
+        "page_id": "e9d8e9c6-df84-4db1-8a34-d42b67ea9d70"
+      },
+      "created_time": "2024-03-31T06:16:00.000Z",
+      "last_edited_time": "2024-03-31T06:16:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "479a6dc1-812d-49d8-b16f-95046b4afc33"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "479a6dc1-812d-49d8-b16f-95046b4afc33"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "3581e228-90a0-4e3c-908b-0a72f8da4675",
+      "parent": {
+        "type": "page_id",
+        "page_id": "e9d8e9c6-df84-4db1-8a34-d42b67ea9d70"
+      },
+      "created_time": "2024-03-31T06:16:00.000Z",
+      "last_edited_time": "2024-03-31T06:16:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "479a6dc1-812d-49d8-b16f-95046b4afc33"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "479a6dc1-812d-49d8-b16f-95046b4afc33"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "heading_2",
+      "heading_2": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "npx create-next-app",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "npx create-next-app",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "7c77b0b3-eac1-4097-8b0a-ec42e7ffede6",
+      "parent": {
+        "type": "page_id",
+        "page_id": "e9d8e9c6-df84-4db1-8a34-d42b67ea9d70"
+      },
+      "created_time": "2024-03-31T06:17:00.000Z",
+      "last_edited_time": "2024-03-31T06:17:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "479a6dc1-812d-49d8-b16f-95046b4afc33"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "479a6dc1-812d-49d8-b16f-95046b4afc33"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "page components",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "page components",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "455ab0f0-43e8-402c-8a3e-66559168c9bd",
+      "parent": {
+        "type": "page_id",
+        "page_id": "e9d8e9c6-df84-4db1-8a34-d42b67ea9d70"
+      },
+      "created_time": "2024-03-31T06:16:00.000Z",
+      "last_edited_time": "2024-03-31T06:16:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "479a6dc1-812d-49d8-b16f-95046b4afc33"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "479a6dc1-812d-49d8-b16f-95046b4afc33"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "prettier",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "prettier",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "29b174ea-3fae-45e9-8837-54cbfed4c2bc",
+      "parent": {
+        "type": "page_id",
+        "page_id": "e9d8e9c6-df84-4db1-8a34-d42b67ea9d70"
+      },
+      "created_time": "2024-03-31T06:16:00.000Z",
+      "last_edited_time": "2024-03-31T06:16:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "479a6dc1-812d-49d8-b16f-95046b4afc33"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "479a6dc1-812d-49d8-b16f-95046b4afc33"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "eslint",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "eslint",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "5f12579f-c0ac-4ef3-8cbf-29c7c2880a53",
+      "parent": {
+        "type": "page_id",
+        "page_id": "e9d8e9c6-df84-4db1-8a34-d42b67ea9d70"
+      },
+      "created_time": "2024-03-31T06:16:00.000Z",
+      "last_edited_time": "2024-03-31T06:16:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "479a6dc1-812d-49d8-b16f-95046b4afc33"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "479a6dc1-812d-49d8-b16f-95046b4afc33"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "alias src/libs/*",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "alias src/libs/*",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "ccba1cb4-0859-4610-8702-75892806f543",
+      "parent": {
+        "type": "page_id",
+        "page_id": "e9d8e9c6-df84-4db1-8a34-d42b67ea9d70"
+      },
+      "created_time": "2024-03-31T06:17:00.000Z",
+      "last_edited_time": "2024-03-31T06:17:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "479a6dc1-812d-49d8-b16f-95046b4afc33"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "479a6dc1-812d-49d8-b16f-95046b4afc33"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "5c14e6f5-e143-4407-bb14-853a8c1de7a6",
+      "parent": {
+        "type": "page_id",
+        "page_id": "e9d8e9c6-df84-4db1-8a34-d42b67ea9d70"
+      },
+      "created_time": "2024-03-31T06:16:00.000Z",
+      "last_edited_time": "2024-03-31T06:17:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "479a6dc1-812d-49d8-b16f-95046b4afc33"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "479a6dc1-812d-49d8-b16f-95046b4afc33"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "heading_2",
+      "heading_2": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Install tailwindcss",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Install tailwindcss",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "ac4ec45a-fe38-4fba-ac95-4d6194597fd8",
+      "parent": {
+        "type": "page_id",
+        "page_id": "e9d8e9c6-df84-4db1-8a34-d42b67ea9d70"
+      },
+      "created_time": "2024-03-31T06:18:00.000Z",
+      "last_edited_time": "2024-03-31T06:18:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "479a6dc1-812d-49d8-b16f-95046b4afc33"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "479a6dc1-812d-49d8-b16f-95046b4afc33"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "bookmark",
+      "bookmark": {
+        "caption": [],
+        "url": "https://nextjs.org/docs/app/building-your-application/styling/tailwind-css#importing-styles"
+      }
+    },
+    {
+      "object": "block",
+      "id": "ce74263a-bfdb-4e0e-8b8c-97c18deae755",
+      "parent": {
+        "type": "page_id",
+        "page_id": "e9d8e9c6-df84-4db1-8a34-d42b67ea9d70"
+      },
+      "created_time": "2024-03-31T06:17:00.000Z",
+      "last_edited_time": "2024-03-31T06:18:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "479a6dc1-812d-49d8-b16f-95046b4afc33"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "479a6dc1-812d-49d8-b16f-95046b4afc33"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "code",
+      "code": {
+        "caption": [],
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "npm install -D tailwindcss postcss autoprefixer\nnpx tailwindcss init -p",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "npm install -D tailwindcss postcss autoprefixer\nnpx tailwindcss init -p",
+            "href": null
+          }
+        ],
+        "language": "javascript"
+      }
+    },
+    {
+      "object": "block",
+      "id": "d094c365-f1d4-485a-b5bd-d138df8410e9",
+      "parent": {
+        "type": "page_id",
+        "page_id": "e9d8e9c6-df84-4db1-8a34-d42b67ea9d70"
+      },
+      "created_time": "2024-03-31T06:21:00.000Z",
+      "last_edited_time": "2024-03-31T06:21:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "479a6dc1-812d-49d8-b16f-95046b4afc33"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "479a6dc1-812d-49d8-b16f-95046b4afc33"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "7f26048e-f327-4dc7-9f74-b12f4e424fe2",
+      "parent": {
+        "type": "page_id",
+        "page_id": "e9d8e9c6-df84-4db1-8a34-d42b67ea9d70"
+      },
+      "created_time": "2024-03-31T06:16:00.000Z",
+      "last_edited_time": "2024-03-31T06:16:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "479a6dc1-812d-49d8-b16f-95046b4afc33"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "479a6dc1-812d-49d8-b16f-95046b4afc33"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      }
     }
-  },
-  {
-    "object": "block",
-    "id": "ad745726-6bf5-4f03-aa2a-dcf01a8412db",
-    "parent":
-    {
-      "type": "page_id",
-      "page_id": "e9d8e9c6-df84-4db1-8a34-d42b67ea9d70"
-    },
-    "created_time": "2024-03-31T06:15:00.000Z",
-    "last_edited_time": "2024-03-31T06:15:00.000Z",
-    "created_by":
-    {
-      "object": "user",
-      "id": "479a6dc1-812d-49d8-b16f-95046b4afc33"
-    },
-    "last_edited_by":
-    {
-      "object": "user",
-      "id": "479a6dc1-812d-49d8-b16f-95046b4afc33"
-    },
-    "has_children": false,
-    "archived": false,
-    "in_trash": false,
-    "type": "bulleted_list_item",
-    "bulleted_list_item":
-    {
-      "rich_text": [
-      {
-        "type": "text",
-        "text":
-        {
-          "content": "web3Modal",
-          "link": null
-        },
-        "annotations":
-        {
-          "bold": false,
-          "italic": false,
-          "strikethrough": false,
-          "underline": false,
-          "code": false,
-          "color": "default"
-        },
-        "plain_text": "web3Modal",
-        "href": null
-      }],
-      "color": "default"
-    }
-  },
-  {
-    "object": "block",
-    "id": "ea766e8d-6d9b-4c66-b669-5f5236e6a56d",
-    "parent":
-    {
-      "type": "page_id",
-      "page_id": "e9d8e9c6-df84-4db1-8a34-d42b67ea9d70"
-    },
-    "created_time": "2024-03-31T06:15:00.000Z",
-    "last_edited_time": "2024-03-31T06:15:00.000Z",
-    "created_by":
-    {
-      "object": "user",
-      "id": "479a6dc1-812d-49d8-b16f-95046b4afc33"
-    },
-    "last_edited_by":
-    {
-      "object": "user",
-      "id": "479a6dc1-812d-49d8-b16f-95046b4afc33"
-    },
-    "has_children": false,
-    "archived": false,
-    "in_trash": false,
-    "type": "bulleted_list_item",
-    "bulleted_list_item":
-    {
-      "rich_text": [
-      {
-        "type": "text",
-        "text":
-        {
-          "content": "wagmi",
-          "link": null
-        },
-        "annotations":
-        {
-          "bold": false,
-          "italic": false,
-          "strikethrough": false,
-          "underline": false,
-          "code": false,
-          "color": "default"
-        },
-        "plain_text": "wagmi",
-        "href": null
-      }],
-      "color": "default"
-    }
-  },
-  {
-    "object": "block",
-    "id": "2043b592-ebca-4745-a27c-ffcc0649f8c4",
-    "parent":
-    {
-      "type": "page_id",
-      "page_id": "e9d8e9c6-df84-4db1-8a34-d42b67ea9d70"
-    },
-    "created_time": "2024-03-31T06:15:00.000Z",
-    "last_edited_time": "2024-03-31T06:15:00.000Z",
-    "created_by":
-    {
-      "object": "user",
-      "id": "479a6dc1-812d-49d8-b16f-95046b4afc33"
-    },
-    "last_edited_by":
-    {
-      "object": "user",
-      "id": "479a6dc1-812d-49d8-b16f-95046b4afc33"
-    },
-    "has_children": false,
-    "archived": false,
-    "in_trash": false,
-    "type": "bulleted_list_item",
-    "bulleted_list_item":
-    {
-      "rich_text": [
-      {
-        "type": "text",
-        "text":
-        {
-          "content": "tanstack/react-query",
-          "link": null
-        },
-        "annotations":
-        {
-          "bold": false,
-          "italic": false,
-          "strikethrough": false,
-          "underline": false,
-          "code": false,
-          "color": "default"
-        },
-        "plain_text": "tanstack/react-query",
-        "href": null
-      }],
-      "color": "default"
-    }
-  },
-  {
-    "object": "block",
-    "id": "d4eb4b3c-0b5f-4d16-82e3-9ac2142048fd",
-    "parent":
-    {
-      "type": "page_id",
-      "page_id": "e9d8e9c6-df84-4db1-8a34-d42b67ea9d70"
-    },
-    "created_time": "2024-03-31T06:15:00.000Z",
-    "last_edited_time": "2024-03-31T06:16:00.000Z",
-    "created_by":
-    {
-      "object": "user",
-      "id": "479a6dc1-812d-49d8-b16f-95046b4afc33"
-    },
-    "last_edited_by":
-    {
-      "object": "user",
-      "id": "479a6dc1-812d-49d8-b16f-95046b4afc33"
-    },
-    "has_children": false,
-    "archived": false,
-    "in_trash": false,
-    "type": "bulleted_list_item",
-    "bulleted_list_item":
-    {
-      "rich_text": [
-      {
-        "type": "text",
-        "text":
-        {
-          "content": "tailwindcss",
-          "link": null
-        },
-        "annotations":
-        {
-          "bold": false,
-          "italic": false,
-          "strikethrough": false,
-          "underline": false,
-          "code": false,
-          "color": "default"
-        },
-        "plain_text": "tailwindcss",
-        "href": null
-      }],
-      "color": "default"
-    }
-  },
-  {
-    "object": "block",
-    "id": "e6c89090-6a7d-4053-9357-cf95aac1af46",
-    "parent":
-    {
-      "type": "page_id",
-      "page_id": "e9d8e9c6-df84-4db1-8a34-d42b67ea9d70"
-    },
-    "created_time": "2024-03-31T06:16:00.000Z",
-    "last_edited_time": "2024-03-31T06:16:00.000Z",
-    "created_by":
-    {
-      "object": "user",
-      "id": "479a6dc1-812d-49d8-b16f-95046b4afc33"
-    },
-    "last_edited_by":
-    {
-      "object": "user",
-      "id": "479a6dc1-812d-49d8-b16f-95046b4afc33"
-    },
-    "has_children": false,
-    "archived": false,
-    "in_trash": false,
-    "type": "paragraph",
-    "paragraph":
-    {
-      "rich_text": [],
-      "color": "default"
-    }
-  },
-  {
-    "object": "block",
-    "id": "3581e228-90a0-4e3c-908b-0a72f8da4675",
-    "parent":
-    {
-      "type": "page_id",
-      "page_id": "e9d8e9c6-df84-4db1-8a34-d42b67ea9d70"
-    },
-    "created_time": "2024-03-31T06:16:00.000Z",
-    "last_edited_time": "2024-03-31T06:16:00.000Z",
-    "created_by":
-    {
-      "object": "user",
-      "id": "479a6dc1-812d-49d8-b16f-95046b4afc33"
-    },
-    "last_edited_by":
-    {
-      "object": "user",
-      "id": "479a6dc1-812d-49d8-b16f-95046b4afc33"
-    },
-    "has_children": false,
-    "archived": false,
-    "in_trash": false,
-    "type": "heading_2",
-    "heading_2":
-    {
-      "rich_text": [
-      {
-        "type": "text",
-        "text":
-        {
-          "content": "npx create-next-app",
-          "link": null
-        },
-        "annotations":
-        {
-          "bold": false,
-          "italic": false,
-          "strikethrough": false,
-          "underline": false,
-          "code": false,
-          "color": "default"
-        },
-        "plain_text": "npx create-next-app",
-        "href": null
-      }],
-      "is_toggleable": false,
-      "color": "default"
-    }
-  },
-  {
-    "object": "block",
-    "id": "7c77b0b3-eac1-4097-8b0a-ec42e7ffede6",
-    "parent":
-    {
-      "type": "page_id",
-      "page_id": "e9d8e9c6-df84-4db1-8a34-d42b67ea9d70"
-    },
-    "created_time": "2024-03-31T06:17:00.000Z",
-    "last_edited_time": "2024-03-31T06:17:00.000Z",
-    "created_by":
-    {
-      "object": "user",
-      "id": "479a6dc1-812d-49d8-b16f-95046b4afc33"
-    },
-    "last_edited_by":
-    {
-      "object": "user",
-      "id": "479a6dc1-812d-49d8-b16f-95046b4afc33"
-    },
-    "has_children": false,
-    "archived": false,
-    "in_trash": false,
-    "type": "bulleted_list_item",
-    "bulleted_list_item":
-    {
-      "rich_text": [
-      {
-        "type": "text",
-        "text":
-        {
-          "content": "page components",
-          "link": null
-        },
-        "annotations":
-        {
-          "bold": false,
-          "italic": false,
-          "strikethrough": false,
-          "underline": false,
-          "code": false,
-          "color": "default"
-        },
-        "plain_text": "page components",
-        "href": null
-      }],
-      "color": "default"
-    }
-  },
-  {
-    "object": "block",
-    "id": "455ab0f0-43e8-402c-8a3e-66559168c9bd",
-    "parent":
-    {
-      "type": "page_id",
-      "page_id": "e9d8e9c6-df84-4db1-8a34-d42b67ea9d70"
-    },
-    "created_time": "2024-03-31T06:16:00.000Z",
-    "last_edited_time": "2024-03-31T06:16:00.000Z",
-    "created_by":
-    {
-      "object": "user",
-      "id": "479a6dc1-812d-49d8-b16f-95046b4afc33"
-    },
-    "last_edited_by":
-    {
-      "object": "user",
-      "id": "479a6dc1-812d-49d8-b16f-95046b4afc33"
-    },
-    "has_children": false,
-    "archived": false,
-    "in_trash": false,
-    "type": "bulleted_list_item",
-    "bulleted_list_item":
-    {
-      "rich_text": [
-      {
-        "type": "text",
-        "text":
-        {
-          "content": "prettier",
-          "link": null
-        },
-        "annotations":
-        {
-          "bold": false,
-          "italic": false,
-          "strikethrough": false,
-          "underline": false,
-          "code": false,
-          "color": "default"
-        },
-        "plain_text": "prettier",
-        "href": null
-      }],
-      "color": "default"
-    }
-  },
-  {
-    "object": "block",
-    "id": "29b174ea-3fae-45e9-8837-54cbfed4c2bc",
-    "parent":
-    {
-      "type": "page_id",
-      "page_id": "e9d8e9c6-df84-4db1-8a34-d42b67ea9d70"
-    },
-    "created_time": "2024-03-31T06:16:00.000Z",
-    "last_edited_time": "2024-03-31T06:16:00.000Z",
-    "created_by":
-    {
-      "object": "user",
-      "id": "479a6dc1-812d-49d8-b16f-95046b4afc33"
-    },
-    "last_edited_by":
-    {
-      "object": "user",
-      "id": "479a6dc1-812d-49d8-b16f-95046b4afc33"
-    },
-    "has_children": false,
-    "archived": false,
-    "in_trash": false,
-    "type": "bulleted_list_item",
-    "bulleted_list_item":
-    {
-      "rich_text": [
-      {
-        "type": "text",
-        "text":
-        {
-          "content": "eslint",
-          "link": null
-        },
-        "annotations":
-        {
-          "bold": false,
-          "italic": false,
-          "strikethrough": false,
-          "underline": false,
-          "code": false,
-          "color": "default"
-        },
-        "plain_text": "eslint",
-        "href": null
-      }],
-      "color": "default"
-    }
-  },
-  {
-    "object": "block",
-    "id": "5f12579f-c0ac-4ef3-8cbf-29c7c2880a53",
-    "parent":
-    {
-      "type": "page_id",
-      "page_id": "e9d8e9c6-df84-4db1-8a34-d42b67ea9d70"
-    },
-    "created_time": "2024-03-31T06:16:00.000Z",
-    "last_edited_time": "2024-03-31T06:16:00.000Z",
-    "created_by":
-    {
-      "object": "user",
-      "id": "479a6dc1-812d-49d8-b16f-95046b4afc33"
-    },
-    "last_edited_by":
-    {
-      "object": "user",
-      "id": "479a6dc1-812d-49d8-b16f-95046b4afc33"
-    },
-    "has_children": false,
-    "archived": false,
-    "in_trash": false,
-    "type": "bulleted_list_item",
-    "bulleted_list_item":
-    {
-      "rich_text": [
-      {
-        "type": "text",
-        "text":
-        {
-          "content": "alias src/libs/*",
-          "link": null
-        },
-        "annotations":
-        {
-          "bold": false,
-          "italic": false,
-          "strikethrough": false,
-          "underline": false,
-          "code": false,
-          "color": "default"
-        },
-        "plain_text": "alias src/libs/*",
-        "href": null
-      }],
-      "color": "default"
-    }
-  },
-  {
-    "object": "block",
-    "id": "ccba1cb4-0859-4610-8702-75892806f543",
-    "parent":
-    {
-      "type": "page_id",
-      "page_id": "e9d8e9c6-df84-4db1-8a34-d42b67ea9d70"
-    },
-    "created_time": "2024-03-31T06:17:00.000Z",
-    "last_edited_time": "2024-03-31T06:17:00.000Z",
-    "created_by":
-    {
-      "object": "user",
-      "id": "479a6dc1-812d-49d8-b16f-95046b4afc33"
-    },
-    "last_edited_by":
-    {
-      "object": "user",
-      "id": "479a6dc1-812d-49d8-b16f-95046b4afc33"
-    },
-    "has_children": false,
-    "archived": false,
-    "in_trash": false,
-    "type": "paragraph",
-    "paragraph":
-    {
-      "rich_text": [],
-      "color": "default"
-    }
-  },
-  {
-    "object": "block",
-    "id": "5c14e6f5-e143-4407-bb14-853a8c1de7a6",
-    "parent":
-    {
-      "type": "page_id",
-      "page_id": "e9d8e9c6-df84-4db1-8a34-d42b67ea9d70"
-    },
-    "created_time": "2024-03-31T06:16:00.000Z",
-    "last_edited_time": "2024-03-31T06:17:00.000Z",
-    "created_by":
-    {
-      "object": "user",
-      "id": "479a6dc1-812d-49d8-b16f-95046b4afc33"
-    },
-    "last_edited_by":
-    {
-      "object": "user",
-      "id": "479a6dc1-812d-49d8-b16f-95046b4afc33"
-    },
-    "has_children": false,
-    "archived": false,
-    "in_trash": false,
-    "type": "heading_2",
-    "heading_2":
-    {
-      "rich_text": [
-      {
-        "type": "text",
-        "text":
-        {
-          "content": "Install tailwindcss",
-          "link": null
-        },
-        "annotations":
-        {
-          "bold": false,
-          "italic": false,
-          "strikethrough": false,
-          "underline": false,
-          "code": false,
-          "color": "default"
-        },
-        "plain_text": "Install tailwindcss",
-        "href": null
-      }],
-      "is_toggleable": false,
-      "color": "default"
-    }
-  },
-  {
-    "object": "block",
-    "id": "ac4ec45a-fe38-4fba-ac95-4d6194597fd8",
-    "parent":
-    {
-      "type": "page_id",
-      "page_id": "e9d8e9c6-df84-4db1-8a34-d42b67ea9d70"
-    },
-    "created_time": "2024-03-31T06:18:00.000Z",
-    "last_edited_time": "2024-03-31T06:18:00.000Z",
-    "created_by":
-    {
-      "object": "user",
-      "id": "479a6dc1-812d-49d8-b16f-95046b4afc33"
-    },
-    "last_edited_by":
-    {
-      "object": "user",
-      "id": "479a6dc1-812d-49d8-b16f-95046b4afc33"
-    },
-    "has_children": false,
-    "archived": false,
-    "in_trash": false,
-    "type": "bookmark",
-    "bookmark":
-    {
-      "caption": [],
-      "url": "https://nextjs.org/docs/app/building-your-application/styling/tailwind-css#importing-styles"
-    }
-  },
-  {
-    "object": "block",
-    "id": "ce74263a-bfdb-4e0e-8b8c-97c18deae755",
-    "parent":
-    {
-      "type": "page_id",
-      "page_id": "e9d8e9c6-df84-4db1-8a34-d42b67ea9d70"
-    },
-    "created_time": "2024-03-31T06:17:00.000Z",
-    "last_edited_time": "2024-03-31T06:18:00.000Z",
-    "created_by":
-    {
-      "object": "user",
-      "id": "479a6dc1-812d-49d8-b16f-95046b4afc33"
-    },
-    "last_edited_by":
-    {
-      "object": "user",
-      "id": "479a6dc1-812d-49d8-b16f-95046b4afc33"
-    },
-    "has_children": false,
-    "archived": false,
-    "in_trash": false,
-    "type": "code",
-    "code":
-    {
-      "caption": [],
-      "rich_text": [
-      {
-        "type": "text",
-        "text":
-        {
-          "content": "npm install -D tailwindcss postcss autoprefixer\nnpx tailwindcss init -p",
-          "link": null
-        },
-        "annotations":
-        {
-          "bold": false,
-          "italic": false,
-          "strikethrough": false,
-          "underline": false,
-          "code": false,
-          "color": "default"
-        },
-        "plain_text": "npm install -D tailwindcss postcss autoprefixer\nnpx tailwindcss init -p",
-        "href": null
-      }],
-      "language": "javascript"
-    }
-  },
-  {
-    "object": "block",
-    "id": "d094c365-f1d4-485a-b5bd-d138df8410e9",
-    "parent":
-    {
-      "type": "page_id",
-      "page_id": "e9d8e9c6-df84-4db1-8a34-d42b67ea9d70"
-    },
-    "created_time": "2024-03-31T06:21:00.000Z",
-    "last_edited_time": "2024-03-31T06:21:00.000Z",
-    "created_by":
-    {
-      "object": "user",
-      "id": "479a6dc1-812d-49d8-b16f-95046b4afc33"
-    },
-    "last_edited_by":
-    {
-      "object": "user",
-      "id": "479a6dc1-812d-49d8-b16f-95046b4afc33"
-    },
-    "has_children": false,
-    "archived": false,
-    "in_trash": false,
-    "type": "paragraph",
-    "paragraph":
-    {
-      "rich_text": [],
-      "color": "default"
-    }
-  },
-  {
-    "object": "block",
-    "id": "7f26048e-f327-4dc7-9f74-b12f4e424fe2",
-    "parent":
-    {
-      "type": "page_id",
-      "page_id": "e9d8e9c6-df84-4db1-8a34-d42b67ea9d70"
-    },
-    "created_time": "2024-03-31T06:16:00.000Z",
-    "last_edited_time": "2024-03-31T06:16:00.000Z",
-    "created_by":
-    {
-      "object": "user",
-      "id": "479a6dc1-812d-49d8-b16f-95046b4afc33"
-    },
-    "last_edited_by":
-    {
-      "object": "user",
-      "id": "479a6dc1-812d-49d8-b16f-95046b4afc33"
-    },
-    "has_children": false,
-    "archived": false,
-    "in_trash": false,
-    "type": "paragraph",
-    "paragraph":
-    {
-      "rich_text": [],
-      "color": "default"
-    }
-  }],
+  ],
   "next_cursor": null,
   "has_more": false,
   "type": "block",
-  "block":
-  {},
+  "block": {},
   "request_id": "dfb7b54c-4af5-4428-b21c-dbd2d67ae015"
 }

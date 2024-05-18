@@ -32,6 +32,8 @@ export const BlockRenderer: BlockComponent = (props) => {
       return <Heading1 {...props} />;
     case 'heading_2':
       return <Heading2 {...props} />;
+    case 'bulleted_list_item':
+      return <BulletedListItem {...props} />;
     default:
       return <UnknownBlock />;
   }
@@ -56,7 +58,7 @@ export const ChildrenRenderer: FunctionComponent<{ children?: BlockObject[] }> =
 
 export const Heading1: BlockComponent<'heading_1'> = ({ heading_1, children }) => {
   return (
-    <Section size="4">
+    <Section size="1" mt="2">
       <Heading size="8">
         <RichTextRenderer {...heading_1} />
       </Heading>
@@ -67,7 +69,7 @@ export const Heading1: BlockComponent<'heading_1'> = ({ heading_1, children }) =
 
 export const Heading2: BlockComponent<'heading_2'> = ({ heading_2, children }) => {
   return (
-    <Section size="1">
+    <Section size="1" mt="2">
       <Heading as="h2" size="6">
         <RichTextRenderer {...heading_2} />
       </Heading>
@@ -76,6 +78,21 @@ export const Heading2: BlockComponent<'heading_2'> = ({ heading_2, children }) =
   );
 };
 
+export const BulletedListItem: BlockComponent<'bulleted_list_item'> = ({
+  bulleted_list_item,
+  children,
+}) => {
+  return (
+    <Box>
+      <Text weight="bold">
+        ・
+        <RichTextRenderer {...bulleted_list_item} />
+        <ChildrenRenderer>{children}</ChildrenRenderer>
+      </Text>
+    </Box>
+  );
+};
+
 export const UnknownBlock = () => {
-  return <Text>Unknown Block.</Text>;
+  return <Box>Unknown Block.</Box>;
 };
